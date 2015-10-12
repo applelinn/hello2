@@ -10,7 +10,7 @@ public class hello {
 	
 	public static void apple (int i)
 	{
-		System.out.println(i+2+3);
+		System.out.println(i);
 	}
 
 }
